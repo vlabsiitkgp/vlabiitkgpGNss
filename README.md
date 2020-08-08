@@ -1,5 +1,5 @@
-# vlabiitkgptmpt
-## Empty template of Virtual labs IIT Khargpur webpage.
+# vlabiitkgpGNss
+## Virtual Labs IIT Kharagpur for GNSS Lab.
 
 ## Read the instructions in [Readme.pdf](https://github.com/vlabsiitkgp/vlabiitkgptmpt/blob/master/Readme.pdf) document to use Atom to upload to GitHub.
 
